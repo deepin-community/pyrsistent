@@ -1,3 +1,11 @@
+pyrsistent (0.20.0-1) unstable; urgency=medium
+
+  * Team Upload
+  * New upstream version 0.20.0
+  * remove extraneous dependency on python3-six
+
+ -- Alexandre Detiste <tchet@debian.org>  Wed, 21 Feb 2024 14:16:49 +0100
+
 pyrsistent (0.18.1-1) unstable; urgency=medium
 
   [ Ondřej Nový ]
